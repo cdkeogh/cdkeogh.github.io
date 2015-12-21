@@ -1,6 +1,7 @@
 body {
 	background: url("http://websiteslv.com/wp-content/uploads/2015/02/Website-Design-Background.png");
-	background-size: cover;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
 	color: #000;
 	font-family: Calibri;
 	text-align: center;
