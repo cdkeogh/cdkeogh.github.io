@@ -1,11 +1,14 @@
 body {
-	background: url("<cdkeogh.github.io/unit_3/images/Website-Design-Background.png");
+	background: url("cdkeogh.github.io/unit_3/images/Website-Design-Background.png");
 	background-size: cover;
 	color: #000;
 	font-family: Calibri;
+	text-align: center;
 }
 
 #slogan {
 	text-align: center;
 	color: #000;
+	font-size: 250%;
+	font-style: italic;
 }
