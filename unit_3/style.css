@@ -10,6 +10,10 @@ body {
 	width: 300px;
 	margin: 0 auto;
 	text-align: left;
+	font-family: Verdana;
+}
+
+ul {
 	list-style-position: inside;
 	font-family: Verdana;
 }
