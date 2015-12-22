@@ -18,9 +18,12 @@ ul {
 	list-style-position: inside;
 }
 
+p, h1, a {
+	text-align: center;
+}
+
 
 #slogan {
-	text-align: center;
 	font-size: 300%;
 	font-style: italic;
 	font-weight: 900;
