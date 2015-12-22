@@ -8,8 +8,14 @@ body {
 	font-family: Calibri;
 }
 
+.center{
+	width: 200px;
+	margin: 0 auto;
+	text-align: left;
+}
+
 ul {
-	list-style-position: inside;
+	list-style-type: square;
 }
 
 
