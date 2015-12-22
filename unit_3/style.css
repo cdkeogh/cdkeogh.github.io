@@ -2,6 +2,7 @@ body {
 	background: url("http://websiteslv.com/wp-content/uploads/2015/02/Website-Design-Background.png");
 	background-size: cover;
 	background-repeat: no-repeat;
+	opacity: 0.5;
 	
 }
 
@@ -10,6 +11,7 @@ body {
 	margin: 0 auto;
 	text-align: left;
 	list-style-position: inside;
+	font-family: Verdana;
 }
 
 
@@ -18,7 +20,7 @@ body {
 	color: #000;
 	font-size: 300%;
 	font-style: italic;
-	font-family: Calibri;
+	font-family: Verdana;
 	font-weight: 900;
 
 }
