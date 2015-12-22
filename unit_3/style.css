@@ -1,7 +1,14 @@
 body {
 	background: url("http://websiteslv.com/wp-content/uploads/2015/02/Website-Design-Background.png");
-	background-size: cover
+	background-size: cover;
 	background-repeat: no-repeat;
+}
+
+p {
+	text-align: center;
+	color: #000;
+	font-size: 100%;
+	font-family: Calibri;
 }
 
 #slogan {
@@ -9,4 +16,6 @@ body {
 	color: #000;
 	font-size: 250%;
 	font-style: italic;
+	font-family: Calibri;
+
 }
