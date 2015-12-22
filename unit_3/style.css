@@ -8,6 +8,10 @@ body {
 	font-family: Calibri;
 }
 
+ul {
+	list-style-position: inside;
+}
+
 
 #slogan {
 	text-align: center;
